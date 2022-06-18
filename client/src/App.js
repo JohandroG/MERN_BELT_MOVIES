@@ -5,7 +5,6 @@ import RouterComp from "./router";
 const App = () => {
   return (
     <div className="App">
-      
       <RouterComp />
     </div>
   );
