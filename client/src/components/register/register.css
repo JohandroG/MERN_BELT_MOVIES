@@ -1,0 +1,44 @@
+.formlabel{
+    display: block; 
+    padding-top: 10px;
+}
+
+.registerform{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 300px;
+}
+
+.reg-input{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding: 5px;
+    border: solid black;
+    width: 100%;
+}
+
+label{
+    font-weight: 600;
+}
+
+.reg-but{
+    width: 100%;
+}
+
+.errormsj{
+    color: red;
+}
+
+.all{
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}

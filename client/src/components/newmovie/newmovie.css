@@ -1,0 +1,44 @@
+.goback{
+    margin-top: 30px;
+    width: 80vw;
+    text-align: end;
+}
+
+.form-field{
+    display: flex;
+    justify-content: center;
+}
+
+.box-form{
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    width: 80vw;
+}
+
+.box-form h1{
+    text-align: left;
+    margin-left: 20px;
+}
+
+form div{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.label-text{
+    font-size: 20px;
+    vertical-align: middle;
+    padding: 0;
+}
+
+.form-space{
+    display: flex;
+    align-items: center;
+}
+
