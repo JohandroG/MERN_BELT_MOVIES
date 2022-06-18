@@ -10,7 +10,7 @@ import Newmovie from './components/newmovie/newmovie';
 import Newreview from './components/newreview/newreview';
 import Moviereviews from './components/moviereviews/moviereviews';
 
-
+//-
 const RouterComp = () => {
 return (
     <Router className="container">
